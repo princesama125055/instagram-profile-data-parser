@@ -1,4 +1,4 @@
-# Coders of Bangalore - Data Parsing and Analysis Project
+# Data Parsing and Analysis Project
 
 This project is built using Core Python and Jupyter Notebook.  
 It parses raw Instagram-style profile data from a text file, converts it into structured JSON format, and performs basic data analysis on the extracted records.
